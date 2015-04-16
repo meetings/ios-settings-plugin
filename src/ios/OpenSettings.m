@@ -1,5 +1,5 @@
 //
-//  Created by Erik Huisman
+//  Created by Tuomas Lahti
 //
 
 #import "OpenSettings.h"
